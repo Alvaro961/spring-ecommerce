@@ -18,7 +18,7 @@ import com.group.ecommerce.model.Usuario;
 import com.group.ecommerce.service.ProductoService;
 import com.group.ecommerce.service.UploadFileService;
 
-import net.bytebuddy.dynamic.DynamicType.Builder.FieldDefinition.Optional;
+/*import net.bytebuddy.dynamic.DynamicType.Builder.FieldDefinition.Optional;*/
 
 @Controller
 @RequestMapping("/productos")
